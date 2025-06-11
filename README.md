@@ -1,10 +1,10 @@
-# Webserv - Projet 42
+# Webserv - 42 Projet
 
-Ce projet consiste à écrire votre propre serveur HTTP en C++ 98. Ce README vous guidera à travers les étapes nécessaires pour réaliser ce projet.
+This project consists in creating a webserver in C++ 98.
 
-## Table des matières
+## Table of contents
 
 1. [Introduction](#introduction)
-2. [Prérequis](#prérequis)
-3. [Configuration de l'environnement](#configuration-de-lenvironnement)
-4. [Structure du projet](#structure-du-projet)
+2. [Requirements](#prérequis)
+3. [Environement Configuration](#configuration-de-lenvironnement)
+4. [Project Structur](#structure-du-projet)
